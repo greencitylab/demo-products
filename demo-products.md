@@ -1,4 +1,4 @@
-![logo-terranis](.\img\terranis_logo_web.png)
+![logo-terranis](./img/terranis_logo_web.png)
 
 
 
@@ -67,4 +67,4 @@ Mon Territoire Demain | Grand Cognac | 2020
 
 
 
-<img src="D:\OwnCloud\TerraNIS_NL\16_GITHUB\toc_page\img\GCLab150px.png" style="zoom:50%;" />
+<img src="./img/GCLab150px.png" style="zoom: 33%;" />
