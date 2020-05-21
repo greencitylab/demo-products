@@ -39,6 +39,16 @@ Webmap >>> Vegetation cover significant changes between 2017 and 2019 using Sent
 Nature4cities | Szeged city - Hungary | 2017-2019
 ```
 
+### 1.4 SZEGED - URBAN LAND COVER CLASSIFICATION
+
+💥 ***https://greencitylab.github.io/szeged-classif-landcov/***
+
+```
+Webmap >>> Urban land cover classification using Sentinel imagery
+Nature4cities | Szeged city - Hungary | 2019
+6 classes : Canopy cover | Low vegetation | Built-up area | Impervious | Water | Bare soil
+```
+
 
 
 ------
