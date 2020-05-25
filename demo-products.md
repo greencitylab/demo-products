@@ -49,6 +49,15 @@ Nature4cities | Szeged city - Hungary | 2019
 6 classes : Canopy cover | Low vegetation | Built-up area | Impervious | Water | Bare soil
 ```
 
+### 1.5 SZEGED - URBAN GREEN INFRASTRUCTURES CONNECTIVITY
+
+💥 ***https://greencitylab.github.io/szeged-connectivity/***
+
+```
+Webmap >>> Urban green infrastructures connectivity index
+Nature4cities | Szeged city - Hungary | 2019
+```
+
 
 
 ------
